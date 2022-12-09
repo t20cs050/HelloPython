@@ -6,3 +6,4 @@ Created on 2022/10/14
 from fibonacci import fibo
 
 print(fibo(30))
+print(fibo(20))
